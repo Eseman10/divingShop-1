@@ -6,7 +6,7 @@ const mee = () => {
 
     useEffect(() => {
         console.log('mee');
-    }, [0]);
+    }, []);
 
 
   return (
